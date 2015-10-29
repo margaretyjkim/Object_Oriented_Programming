@@ -26,4 +26,7 @@ end
 #Question 6
 Chris = Instructor.new("Chris")
 Chris.greeting
+
+#Question 7
 Christina = Student.new("Christina")
+Christina.greeting
