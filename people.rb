@@ -30,3 +30,5 @@ Chris.greeting
 #Question 7
 Christina = Student.new("Christina")
 Christina.greeting
+
+#Question 8 doesn't work because method is not assigned to that class
